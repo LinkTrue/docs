@@ -6,5 +6,5 @@
 * [Key Features](key-features.md)
 * [How It Works](how-it-works.md)
 * [Technical Specifications](technical-specifications.md)
-* [Frequently Asked Questions](frequently-asked-questions.md)
+* [FAQ](faq.md)
 * [The Vision](the-vision.md)

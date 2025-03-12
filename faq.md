@@ -1,9 +1,9 @@
 ---
-description: Answers to common questions about dTip
+description: Frequently Asked Questions about dTip
 icon: comment-question
 ---
 
-# Frequently Asked Questions
+# FAQ
 
 * **What is the problem?** Cryptocurrency donations often involve multiple wallets, risking lost donations.
 * **What is the solution?** dTip is an open-source dApp that consolidates crypto links, ensuring transparency and control.
