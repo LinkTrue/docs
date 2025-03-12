@@ -1,5 +1,6 @@
 ---
 description: Feel free to contribute and help expand dTip
+icon: people-group
 ---
 
 # Contribution
