@@ -12,9 +12,9 @@
 
 * [Terms of Use](terms/terms-of-use.md)
 * [Privacy](terms/privacy.md)
-* [Page 1](terms/page-1.md)
 
 ***
 
+* [Roadmap](roadmap.md)
 * [FAQ](faq.md)
 * [The Vision](the-vision.md)
