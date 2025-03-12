@@ -1,5 +1,7 @@
 ---
 icon: hand-wave
+cover: .gitbook/assets/banner.jpg
+coverY: 0
 ---
 
 # Welcome

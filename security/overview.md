@@ -1,13 +1,12 @@
 ---
 description: System Security Implications.
-icon: lock-keyhole
 ---
 
-# Security
+# Overview
 
 ## Thread Model
 
-<figure><img src=".gitbook/assets/dtip flow.png" alt=""><figcaption><p>system diagram</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/dtip flow.png" alt=""><figcaption><p>system diagram</p></figcaption></figure>
 
 ### Principals (Actors)
 
