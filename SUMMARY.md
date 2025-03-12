@@ -7,7 +7,7 @@
 * [How It Works](how-it-works.md)
 * [Technical Specifications](technical-specifications.md)
 * [Security](security.md)
+* [Terms of Use](terms-of-use.md)
 * [Privacy](privacy.md)
 * [FAQ](faq.md)
 * [The Vision](the-vision.md)
-* [Terms of Use](terms-of-use.md)
