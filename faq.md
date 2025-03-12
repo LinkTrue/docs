@@ -1,6 +1,9 @@
 ---
 description: Frequently Asked Questions about dTip
-icon: comment-question
+icon: square-question
+cover: >-
+  https://images.unsplash.com/photo-1616593437252-0631aeb95590?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxxdWVzdGlvbnN8ZW58MHx8fHwxNzQxNzQ2MDgxfDA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # FAQ

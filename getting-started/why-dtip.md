@@ -13,6 +13,6 @@ icon: exclamation
 
 * **Zero-Fee, Trustless Fundraising:** Direct, blockchain-powered transactions.
 * **Borderless & Censorship-Resistant:** Open to anyone, anywhere.
-* **\[Comming Soon] AI-Powered Donor Matching:** Personalized donor recommendations for impactful giving.
-* **\[Comming Soon] Referral Growth & NFT Rewards:** Community-driven expansion with rewards for engagement.
-* **\[Comming Soon] Premium Features:** Campaign analytics, notifications, and more to enhance the fundraising experience.
+* \[Comming Soon] **AI-Powered Donor Matching:** Personalized donor recommendations for impactful giving.
+* \[Comming Soon] **Referral Growth & NFT Rewards:** Community-driven expansion with rewards for engagement.
+* \[Comming Soon] **Premium Features:** Campaign analytics, notifications, and more to enhance the fundraising experience.

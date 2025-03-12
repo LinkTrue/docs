@@ -1,6 +1,9 @@
 ---
 description: System Security Implications.
 icon: book-open
+cover: >-
+  https://images.unsplash.com/photo-1637190623651-e6b10007a0b7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8ZGlhZ3JhbXxlbnwwfHx8fDE3NDE3ODg1MzN8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # Overview
@@ -41,7 +44,7 @@ Key actors in the system that can be targeted by threats:
 
 * **Website Downtime (Vercel Issues)**
   * Mitigation: Users can access data from [Soneium Blockscout](https://soneium-minato.blockscout.com/address/0xB5500E2C3B09Eb7cfb19437BF88f3b3fe739C3b6?tab=read_contract)
-* **Phishing Attacks (Fake dTip Websites)**
+* **Phishing Attacks (Fake&#x20;**_**dTip**_**&#x20;Websites)**
   * Attackers can clone the website and trick users into interacting with a malicious contract
   * Mitigation:
     * Clear branding and verified domains
@@ -52,9 +55,9 @@ Key actors in the system that can be targeted by threats:
   * Mitigation:
     * White-box Security audits with industry best practices and extensive testing
 
-**b) Out of Our Control (But Can Affect dTip's Integrity)**
+**b) Out of Our Control (But Can Affect&#x20;**_**dTip**_**'s Integrity)**
 
-These are external factors that impact dTip but are not directly under our control:
+These are external factors that impact _dTip_ but are not directly under our control:
 
 * **Blockchain Congestion (Ethereum L1 & Soneium L2)**
   * Transaction delays could impact profile updates
@@ -68,13 +71,22 @@ These are external factors that impact dTip but are not directly under our contr
 
 ### Invariants (System Integrity Must-Holds)
 
-To ensure dTip remains functional and secure:
+To ensure _dTip_ remains functional and secure:
 
-* **Profile Data Must Always Be Accessible**
-  * Even if the website is down, users should access data via blockchain explorers
-* **Smart Contract Should Always Enforce Profile Ownership**
-  * Unauthorized edits should never be possible
-* **Blockchain Networks Must Be Operational**
-  * Ethereum L1 & Soneium L2 must be running for _dTip_ to work
+*   **Profile Data Must Always Be Accessible**
+
+    * Even if the website is down, users should access data via blockchain explorersComment
+
+    CommentComment
+*   **Smart Contract Should Always Enforce Profile Ownership**
+
+    * Unauthorized edits should never be possibleComment
+
+    CommentComment
+*   **Blockchain Networks Must Be Operational**
+
+    * Ethereum L1 & Soneium L2 must be running for _dTip_ to workComment
+
+    CommentComment
 * **Users Must Always Have an easy Way to Verify Profile Authenticity**
   * Either through the official website or directly via the blockchain explorer
