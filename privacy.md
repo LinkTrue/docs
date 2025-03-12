@@ -1,5 +1,5 @@
 ---
-description: dTip Privacy Policy
+description: By using dTip, you accept our Terms of Use & Privacy Policy.
 icon: fingerprint
 ---
 
